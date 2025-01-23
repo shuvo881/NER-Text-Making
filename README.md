@@ -5,7 +5,7 @@ The goal of this project is to evaluate your ability to generate high-quality Na
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/Devolved-AI/Athena_2_LLM_Evaluation.git](https://github.com/shuvo881/NER-Text-Making.git)
+git clone https://github.com/shuvo881/NER-Text-Making.git
 cd NER-Text-Making
 ```
 
