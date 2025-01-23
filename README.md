@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ```bash
 cd code
 # run the main file:
-python main.py
+ main.ipynb
 ```
 
 
