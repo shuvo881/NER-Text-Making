@@ -26,6 +26,11 @@ source venv/bin/active
 export OPENAI_API_KEY=your_key_here
 ```
 
+```bash
+# Install Requirements
+pip install -r requirements.txt
+```
+
 ### Basic Usage
 
 ```bash
